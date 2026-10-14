@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=%24+sudo+awaken+--operator+kavin_thoriq;%3E+INITIALIZING+SYSTEM...;%3E+CONNECTING+TO+HR+ALLIANCE+SATELLITE...;%3E+BYPASSING+SECURITY...+OK.;%3E+WELCOME%2C+KAVIN+THORIQ+%E2%80%94+ACCESS+AUTHORIZED" alt="Typing SVG" />
 
+<img src="singularity.svg" alt="Singularity — Swallowed Star" width="100%" />
+
 # 吞噬星空 · SWALLOWED STAR // OPERATOR PROFILE
 
 **`KAVIN THORIQ`** — Pelajar PPLG · SMK TI Dwiguna, Depok
@@ -36,6 +38,14 @@ Siap berevolusi dan menembus batas dalam dunia Web & Game Development.
 
 > Siswa SMK PPLG yang menguasai dasar pemrograman web/mobile, SQL, dan UI/UX design.
 > Adaptif, komunikatif, dan terbiasa bekerja dalam tim untuk menyelesaikan proyek software secara efektif.
+
+---
+
+## `~/` nano hello_universe.js
+
+<div align="center">
+<img src="terminal.svg" alt="Animated Linux terminal writing code" width="100%" />
+</div>
 
 ---
 
