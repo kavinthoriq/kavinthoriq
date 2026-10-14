@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 234" width="800" height="234" role="img" aria-label="kavin@hr-alliance: ~/quote">
+<defs>
+<clipPath id="c0"><rect x="24" y="54" width="0" height="19"><animate attributeName="width" values="0;0;280.8;280.8;0" keyTimes="0.00000;0.04460;0.20517;0.96432;1.00000" dur="11.21s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="24" y="98" width="0" height="19"><animate attributeName="width" values="0;0;514.8;514.8;0" keyTimes="0.00000;0.26316;0.38091;0.96432;1.00000" dur="11.21s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="24" y="120" width="0" height="19"><animate attributeName="width" values="0;0;522.6;522.6;0" keyTimes="0.00000;0.38983;0.50937;0.96432;1.00000" dur="11.21s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c4"><rect x="24" y="142" width="0" height="19"><animate attributeName="width" values="0;0;62.4;62.4;0" keyTimes="0.00000;0.51829;0.53613;0.96432;1.00000" dur="11.21s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c6"><rect x="24" y="186" width="0" height="19"><animate attributeName="width" values="0;0;507.0;507.0;0" keyTimes="0.00000;0.56289;0.67886;0.96432;1.00000" dur="11.21s" repeatCount="indefinite"/></rect></clipPath>
+<filter id="tglow" x="-5%" y="-30%" width="110%" height="160%"><feGaussianBlur stdDeviation="1.1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00f5ff" stop-opacity="0"/><stop offset="0.5" stop-color="#00f5ff" stop-opacity="0.07"/><stop offset="1" stop-color="#00f5ff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="800" height="234" rx="12" fill="#020812"/>
+<rect x="0.5" y="0.5" width="799" height="233" rx="12" fill="none" stroke="#00f5ff" stroke-opacity="0.3"/>
+<path d="M0 12 A12 12 0 0 1 12 0 H788 A12 12 0 0 1 800 12 V40 H0 Z" fill="#06142a"/>
+<line x1="0" y1="40" x2="800" y2="40" stroke="#00f5ff" stroke-opacity="0.2"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f56"/><circle cx="46" cy="20" r="6" fill="#ffbd2e"/><circle cx="68" cy="20" r="6" fill="#27c93f"/>
+<text x="400" y="25" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" fill="#00f5ff" fill-opacity="0.8" letter-spacing="1">kavin@hr-alliance: ~/quote</text>
+<g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, 'Courier New', monospace" font-size="13" filter="url(#tglow)">
+<g clip-path="url(#c0)"><text x="24" y="68" textLength="280.8" lengthAdjust="spacing"><tspan fill="#00ff88">kavin@hr-alliance</tspan><tspan fill="#d0e8ff">:</tspan><tspan fill="#0099ff">~</tspan><tspan fill="#d0e8ff">$ </tspan><tspan fill="#ffd700">cat ./quote.txt</tspan></text></g>
+<g><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="0.8s" repeatCount="indefinite"/><rect x="24" y="56" width="7" height="15" fill="#00ff88" opacity="0"><animate attributeName="x" values="24;24;304.8;304.8;24" keyTimes="0.00000;0.04460;0.20517;0.96432;1.00000" dur="11.21s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" calcMode="discrete" keyTimes="0.00000;0.04460;0.26316;1.00000" dur="11.21s" repeatCount="indefinite"/></rect></g>
+<g clip-path="url(#c2)"><text x="24" y="112" textLength="514.8" lengthAdjust="spacing"><tspan fill="#ffd700">&quot;Dalam alam semesta ini, yang lemah tidak memiliki hak untuk hidup</tspan></text></g>
+<g><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="0.8s" repeatCount="indefinite"/><rect x="24" y="100" width="7" height="15" fill="#00ff88" opacity="0"><animate attributeName="x" values="24;24;538.8;538.8;24" keyTimes="0.00000;0.26316;0.38091;0.96432;1.00000" dur="11.21s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" calcMode="discrete" keyTimes="0.00000;0.26316;0.38983;1.00000" dur="11.21s" repeatCount="indefinite"/></rect></g>
+<g clip-path="url(#c3)"><text x="24" y="134" textLength="522.6" lengthAdjust="spacing"><tspan fill="#ffd700">dengan nyaman. Hanya yang kuat yang bisa melindungi apa yang mereka</tspan></text></g>
+<g><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="0.8s" repeatCount="indefinite"/><rect x="24" y="122" width="7" height="15" fill="#00ff88" opacity="0"><animate attributeName="x" values="24;24;546.6;546.6;24" keyTimes="0.00000;0.38983;0.50937;0.96432;1.00000" dur="11.21s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" calcMode="discrete" keyTimes="0.00000;0.38983;0.51829;1.00000" dur="11.21s" repeatCount="indefinite"/></rect></g>
+<g clip-path="url(#c4)"><text x="24" y="156" textLength="62.4" lengthAdjust="spacing"><tspan fill="#ffd700">cintai.&quot;</tspan></text></g>
+<g><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="0.8s" repeatCount="indefinite"/><rect x="24" y="144" width="7" height="15" fill="#00ff88" opacity="0"><animate attributeName="x" values="24;24;86.4;86.4;24" keyTimes="0.00000;0.51829;0.53613;0.96432;1.00000" dur="11.21s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" calcMode="discrete" keyTimes="0.00000;0.51829;0.56289;1.00000" dur="11.21s" repeatCount="indefinite"/></rect></g>
+<g clip-path="url(#c6)"><text x="24" y="200" textLength="507.0" lengthAdjust="spacing"><tspan fill="#5b7a99">                              - Luo Feng, Swallowed Star 吞噬星空</tspan></text></g>
+<g><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="0.8s" repeatCount="indefinite"/><rect x="24" y="188" width="7" height="15" fill="#00ff88" opacity="0"><animate attributeName="x" values="24;24;531.0;531.0;24" keyTimes="0.00000;0.56289;0.67886;0.96432;1.00000" dur="11.21s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" calcMode="discrete" keyTimes="0.00000;0.56289;0.96432;1.00000" dur="11.21s" repeatCount="indefinite"/></rect></g>
+</g>
+<rect x="0" y="40" width="800" height="40" fill="url(#scan)"><animate attributeName="y" values="40;174;40" dur="6s" repeatCount="indefinite"/></rect>
+</svg>

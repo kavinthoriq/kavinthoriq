@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 146" width="800" height="146" role="img" aria-label="kavin@hr-alliance: ~/stats">
+<defs>
+<clipPath id="c0"><rect x="24" y="54" width="0" height="19"><animate attributeName="width" values="0;0;273.0;273.0;0" keyTimes="0.00000;0.05938;0.26722;0.95249;1.00000" dur="8.42s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c1"><rect x="24" y="76" width="0" height="19"><animate attributeName="width" values="0;0;405.6;405.6;0" keyTimes="0.00000;0.32067;0.44418;0.95249;1.00000" dur="8.42s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="24" y="98" width="0" height="19"><animate attributeName="width" values="0;0;187.2;187.2;0" keyTimes="0.00000;0.45606;0.51306;0.95249;1.00000" dur="8.42s" repeatCount="indefinite"/></rect></clipPath>
+<filter id="tglow" x="-5%" y="-30%" width="110%" height="160%"><feGaussianBlur stdDeviation="1.1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00f5ff" stop-opacity="0"/><stop offset="0.5" stop-color="#00f5ff" stop-opacity="0.07"/><stop offset="1" stop-color="#00f5ff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="800" height="146" rx="12" fill="#020812"/>
+<rect x="0.5" y="0.5" width="799" height="145" rx="12" fill="none" stroke="#00f5ff" stroke-opacity="0.3"/>
+<path d="M0 12 A12 12 0 0 1 12 0 H788 A12 12 0 0 1 800 12 V40 H0 Z" fill="#06142a"/>
+<line x1="0" y1="40" x2="800" y2="40" stroke="#00f5ff" stroke-opacity="0.2"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f56"/><circle cx="46" cy="20" r="6" fill="#ffbd2e"/><circle cx="68" cy="20" r="6" fill="#27c93f"/>
+<text x="400" y="25" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" fill="#00f5ff" fill-opacity="0.8" letter-spacing="1">kavin@hr-alliance: ~/stats</text>
+<g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, 'Courier New', monospace" font-size="13" filter="url(#tglow)">
+<g clip-path="url(#c0)"><text x="24" y="68" textLength="273.0" lengthAdjust="spacing"><tspan fill="#00ff88">kavin@hr-alliance</tspan><tspan fill="#d0e8ff">:</tspan><tspan fill="#0099ff">~</tspan><tspan fill="#d0e8ff">$ </tspan><tspan fill="#ffd700">./stats --live</tspan></text></g>
+<g><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="0.8s" repeatCount="indefinite"/><rect x="24" y="56" width="7" height="15" fill="#00ff88" opacity="0"><animate attributeName="x" values="24;24;297.0;297.0;24" keyTimes="0.00000;0.05938;0.26722;0.95249;1.00000" dur="8.42s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" calcMode="discrete" keyTimes="0.00000;0.05938;0.32067;1.00000" dur="8.42s" repeatCount="indefinite"/></rect></g>
+<g clip-path="url(#c1)"><text x="24" y="90" textLength="405.6" lengthAdjust="spacing"><tspan fill="#00ff88">[ OK ] fetching commits, repos, languages, streak...</tspan></text></g>
+<g><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="0.8s" repeatCount="indefinite"/><rect x="24" y="78" width="7" height="15" fill="#00ff88" opacity="0"><animate attributeName="x" values="24;24;429.6;429.6;24" keyTimes="0.00000;0.32067;0.44418;0.95249;1.00000" dur="8.42s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" calcMode="discrete" keyTimes="0.00000;0.32067;0.45606;1.00000" dur="8.42s" repeatCount="indefinite"/></rect></g>
+<g clip-path="url(#c2)"><text x="24" y="112" textLength="187.2" lengthAdjust="spacing"><tspan fill="#00ff88">[ OK ] rendering widgets</tspan></text></g>
+<g><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="0.8s" repeatCount="indefinite"/><rect x="24" y="100" width="7" height="15" fill="#00ff88" opacity="0"><animate attributeName="x" values="24;24;211.2;211.2;24" keyTimes="0.00000;0.45606;0.51306;0.95249;1.00000" dur="8.42s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" calcMode="discrete" keyTimes="0.00000;0.45606;0.95249;1.00000" dur="8.42s" repeatCount="indefinite"/></rect></g>
+</g>
+<rect x="0" y="40" width="800" height="40" fill="url(#scan)"><animate attributeName="y" values="40;86;40" dur="6s" repeatCount="indefinite"/></rect>
+</svg>
