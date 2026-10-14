@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=%24+sudo+awaken+--operator+kavin_thoriq;%3E+INITIALIZING+SYSTEM...;%3E+CONNECTING+TO+HR+ALLIANCE+SATELLITE...;%3E+BYPASSING+SECURITY...+OK.;%3E+WELCOME%2C+KAVIN+THORIQ+%E2%80%94+ACCESS+AUTHORIZED" alt="Typing SVG" />
 
-<img src="assets/singularity.svg" alt="Singularity — Swallowed Star" width="100%" />
+<img src="singularity.svg" alt="Singularity — Swallowed Star" width="100%" />
 
 # 吞噬星空 · SWALLOWED STAR // OPERATOR PROFILE
 
@@ -19,19 +19,19 @@
 
 ---
 
-<img src="assets/whoami.svg" alt="Terminal: cat /etc/operator.conf — profil Kavin Thoriq" width="100%" />
+<img src="whoami.svg" alt="Terminal: cat /etc/operator.conf — profil Kavin Thoriq" width="100%" />
 
 <br/>
 
-<img src="assets/terminal.svg" alt="Terminal: nano hello_universe.js — menulis program di Linux" width="100%" />
+<img src="terminal.svg" alt="Terminal: nano hello_universe.js — menulis program di Linux" width="100%" />
 
 ---
 
-<img src="assets/skills.svg" alt="Terminal: ./atribut — hard skills dan soft skills" width="100%" />
+<img src="skills.svg" alt="Terminal: ./atribut — hard skills dan soft skills" width="100%" />
 
 <br/>
 
-<img src="assets/stack.svg" alt="Terminal: apt list --installed — arsenal teknologi" width="100%" />
+<img src="stack.svg" alt="Terminal: apt list --installed — arsenal teknologi" width="100%" />
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-<img src="assets/projects.svg" alt="Terminal: ls -l ./project-archive — daftar project" width="100%" />
+<img src="projects.svg" alt="Terminal: ls -l ./project-archive — daftar project" width="100%" />
 
 | ID | Project | Kategori | Stack | Status | Link |
 |:--:|---------|:--------:|-------|:------:|:----:|
@@ -65,11 +65,11 @@
 
 ---
 
-<img src="assets/missions.svg" alt="Terminal: cat ./mission-log — log misi dan pendidikan" width="100%" />
+<img src="missions.svg" alt="Terminal: cat ./mission-log — log misi dan pendidikan" width="100%" />
 
 ---
 
-<img src="assets/stats.svg" alt="Terminal: ./stats --live — statistik GitHub" width="100%" />
+<img src="stats.svg" alt="Terminal: ./stats --live — statistik GitHub" width="100%" />
 
 <div align="center">
 
@@ -82,11 +82,11 @@
 
 ---
 
-<img src="assets/quote.svg" alt="Terminal: cat ./quote.txt — kutipan Luo Feng, Swallowed Star" width="100%" />
+<img src="quote.svg" alt="Terminal: cat ./quote.txt — kutipan Luo Feng, Swallowed Star" width="100%" />
 
 ---
 
-<img src="assets/contact.svg" alt="Terminal: ping kavin --transmit — kontak" width="100%" />
+<img src="contact.svg" alt="Terminal: ping kavin --transmit — kontak" width="100%" />
 
 <div align="center">
 
