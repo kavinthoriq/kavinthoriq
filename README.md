@@ -54,14 +54,38 @@
 
 <img src="projects.svg" alt="Terminal: ls -l ./project-archive — daftar project" width="100%" />
 
-| ID | Project | Kategori | Stack | Status | Link |
-|:--:|---------|:--------:|-------|:------:|:----:|
-| `P-001` | **Go To School: Mathemagic Adventure** — Game RPG edukasi bertema matematika. Ikuti perjalanan Vynz ke sekolah, lewati ujian karakter, lalu jelajahi Dunia Bilangan. | 🎮 Game | RPG Maker MZ, JavaScript | ✅ Completed `2024` | [Demo](https://kavinthoriq.github.io/go-to-school-mathemagic-adventure/) · [Source](https://github.com/kavinthoriq/go-to-school-mathemagic-adventure) |
-| `P-002` | **PlengerToSmart** — Website edukasi: materi video, kuis berwaktu dengan nilai otomatis & leaderboard, artikel, dan forum diskusi komunitas. | ⚡ Web | PHP, MySQL | ⟳ In Progress `2025` | [Demo](https://edukasi-vynz.page.gd/) · [Source](https://github.com/kavinthoriq/edukasi) |
-| `P-003` | **Geometry Dash (Fan Game)** — Platformer ritme ala Geometry Dash yang bisa dimainkan langsung di browser. | 🎮 Game | Scratch | ✅ Completed `2024` | [Demo](https://kavinthoriq.github.io/geometry-dash/) · [Source](https://github.com/kavinthoriq/geometry-dash) |
-| `P-004` | **Vynz News** — Portal berita teknologi (AI, startup, web dev, edukasi digital, cybersecurity) dengan dark mode & responsif, tanpa framework. | ⚡ Web | HTML, CSS, JavaScript | ✅ Completed `2025` | [Demo](https://kavinthoriq.github.io/vynz-news/) · [Source](https://github.com/kavinthoriq/vynz-news) |
-| `P-005` | **StudyNote** — Desain UI aplikasi catatan sekolah & pengingat tugas untuk siswa SMA/SMK. | ✏️ Design | Figma | ✅ Completed `2025` | [Source](https://github.com/kavinthoriq/note-app) |
-| `P-006` | **SMK TI Dwiguna — Website Design** — Desain UI website resmi sekolah ("Forging Future Mechanics"): Beranda, Galeri, Kontak. | ✏️ Design | Figma | ✅ Completed `2025` | [Source](https://github.com/kavinthoriq/smk.sch.id) |
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://kavinthoriq.github.io/go-to-school-mathemagic-adventure/"><img src="proj-p001.svg" alt="P-001 Go To School: Mathemagic Adventure" width="100%"/></a>
+<br/><a href="https://kavinthoriq.github.io/go-to-school-mathemagic-adventure/"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-00f5ff?style=flat-square&labelColor=020812" alt="Live demo"/></a> <a href="https://github.com/kavinthoriq/go-to-school-mathemagic-adventure"><img src="https://img.shields.io/badge/⊕_SOURCE_CODE-ffd700?style=flat-square&labelColor=020812" alt="Source code"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://edukasi-vynz.page.gd/"><img src="proj-p002.svg" alt="P-002 PlengerToSmart" width="100%"/></a>
+<br/><a href="https://edukasi-vynz.page.gd/"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-00f5ff?style=flat-square&labelColor=020812" alt="Live demo"/></a> <a href="https://github.com/kavinthoriq/edukasi"><img src="https://img.shields.io/badge/⊕_SOURCE_CODE-ffd700?style=flat-square&labelColor=020812" alt="Source code"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://kavinthoriq.github.io/geometry-dash/"><img src="proj-p003.svg" alt="P-003 Geometry Dash (Fan Game)" width="100%"/></a>
+<br/><a href="https://kavinthoriq.github.io/geometry-dash/"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-00f5ff?style=flat-square&labelColor=020812" alt="Live demo"/></a> <a href="https://github.com/kavinthoriq/geometry-dash"><img src="https://img.shields.io/badge/⊕_SOURCE_CODE-ffd700?style=flat-square&labelColor=020812" alt="Source code"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://kavinthoriq.github.io/vynz-news/"><img src="proj-p004.svg" alt="P-004 Vynz News" width="100%"/></a>
+<br/><a href="https://kavinthoriq.github.io/vynz-news/"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-00f5ff?style=flat-square&labelColor=020812" alt="Live demo"/></a> <a href="https://github.com/kavinthoriq/vynz-news"><img src="https://img.shields.io/badge/⊕_SOURCE_CODE-ffd700?style=flat-square&labelColor=020812" alt="Source code"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/kavinthoriq/note-app"><img src="proj-p005.svg" alt="P-005 StudyNote" width="100%"/></a>
+<br/><a href="https://github.com/kavinthoriq/note-app"><img src="https://img.shields.io/badge/⊕_SOURCE_CODE-ffd700?style=flat-square&labelColor=020812" alt="Source code"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/kavinthoriq/smk.sch.id"><img src="proj-p006.svg" alt="P-006 SMK TI Dwiguna - Website Design" width="100%"/></a>
+<br/><a href="https://github.com/kavinthoriq/smk.sch.id"><img src="https://img.shields.io/badge/⊕_SOURCE_CODE-ffd700?style=flat-square&labelColor=020812" alt="Source code"/></a>
+</td>
+</tr>
+</table>
 
 ---
 
