@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=%24+sudo+awaken+--operator+kavin_thoriq;%3E+INITIALIZING+SYSTEM...;%3E+CONNECTING+TO+HR+ALLIANCE+SATELLITE...;%3E+BYPASSING+SECURITY...+OK.;%3E+WELCOME%2C+KAVIN+THORIQ+%E2%80%94+ACCESS+AUTHORIZED" alt="Typing SVG" />
 
-<img src="singularity.svg" alt="Singularity — Swallowed Star" width="100%" />
+<img src="assets/singularity.svg" alt="Singularity — Swallowed Star" width="100%" />
 
 # 吞噬星空 · SWALLOWED STAR // OPERATOR PROFILE
 
@@ -19,61 +19,19 @@
 
 ---
 
-## `~/` whoami
+<img src="assets/whoami.svg" alt="Terminal: cat /etc/operator.conf — profil Kavin Thoriq" width="100%" />
 
-```bash
-kavin@hr-alliance:~$ cat /etc/operator.conf
+<br/>
 
-NAMA        = Kavin Thoriq
-DOMISILI    = Bogor, Jawa Barat
-SEKOLAH     = SMK TI Dwiguna Kota Depok
-JURUSAN     = Pengembangan Perangkat Lunak dan Gim (PPLG)
-CLASS       = Cosmic Grade
-SPECIALTY   = Web / Mobile · SQL · UI/UX · Game Dev 2D
-MOTTO       = "Adaptif. Terampil. Tangguh."
-
-kavin@hr-alliance:~$ echo $MISSION
-Siap berevolusi dan menembus batas dalam dunia Web & Game Development.
-```
-
-> Siswa SMK PPLG yang menguasai dasar pemrograman web/mobile, SQL, dan UI/UX design.
-> Adaptif, komunikatif, dan terbiasa bekerja dalam tim untuk menyelesaikan proyek software secara efektif.
+<img src="assets/terminal.svg" alt="Terminal: nano hello_universe.js — menulis program di Linux" width="100%" />
 
 ---
 
-## `~/` nano hello_universe.js
+<img src="assets/skills.svg" alt="Terminal: ./atribut — hard skills dan soft skills" width="100%" />
 
-<div align="center">
-<img src="terminal.svg" alt="Animated Linux terminal writing code" width="100%" />
-</div>
+<br/>
 
----
-
-## `~/` ls -la ./atribut
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  HARD SKILLS                                                 ║
-╠══════════════════════════════════════════════════════════════╣
-║  Web & Mobile   [████████████████░░░░] 82%                   ║
-║  UI/UX Design   [███████████████░░░░░] 75%                   ║
-║  Game Dev 2D    [█████████████░░░░░░░] 68%                   ║
-║  SQL / Database [██████████████░░░░░░] 72%                   ║
-║  Git & GitHub   [███████████████░░░░░] 78%                   ║
-║  MS Office      [█████████████████░░░] 88%                   ║
-╠══════════════════════════════════════════════════════════════╣
-║  SOFT SKILLS                                                 ║
-╠══════════════════════════════════════════════════════════════╣
-║  Kerja Sama Tim [██████████████████░░] 92%                   ║
-║  Adaptasi       [█████████████████░░░] 88%                   ║
-║  Problem Solving[█████████████████░░░] 87%                   ║
-║  Logis&Analitis [█████████████████░░░] 85%                   ║
-║  Ketelitian     [████████████████░░░░] 83%                   ║
-║  Komunikasi     [████████████████░░░░] 80%                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-## `~/` apt list --installed
+<img src="assets/stack.svg" alt="Terminal: apt list --installed — arsenal teknologi" width="100%" />
 
 <div align="center">
 
@@ -94,12 +52,7 @@ Siap berevolusi dan menembus batas dalam dunia Web & Game Development.
 
 ---
 
-## `~/` cd ./project-archive
-
-```bash
-kavin@hr-alliance:~/project-archive$ ls
-P-001  P-002  P-003  P-004  P-005  P-006
-```
+<img src="assets/projects.svg" alt="Terminal: ls -l ./project-archive — daftar project" width="100%" />
 
 | ID | Project | Kategori | Stack | Status | Link |
 |:--:|---------|:--------:|-------|:------:|:----:|
@@ -112,18 +65,11 @@ P-001  P-002  P-003  P-004  P-005  P-006
 
 ---
 
-## `~/` cat ./mission-log
-
-```text
-M-001 [ACTIVE]       SMK TI Dwiguna Kota Depok — PPLG ............ 2024 → sekarang
-M-002 [COMPLETED]    Website & Database System (HTML/CSS/JS/PHP/MySQL) .. 2024 — 2025
-M-003 [COMPLETED]    UI/UX Prototype Design (Figma) ................... 2024 — 2025
-M-004 [IN PROGRESS]  Game Development 2D (Indie Project) .............. 2025 → sekarang
-```
+<img src="assets/missions.svg" alt="Terminal: cat ./mission-log — log misi dan pendidikan" width="100%" />
 
 ---
 
-## `~/` ./stats --live
+<img src="assets/stats.svg" alt="Terminal: ./stats --live — statistik GitHub" width="100%" />
 
 <div align="center">
 
@@ -136,38 +82,17 @@ M-004 [IN PROGRESS]  Game Development 2D (Indie Project) .............. 2025 →
 
 ---
 
-## `~/` cat ./quote.txt
-
-<div align="center">
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│  "Dalam alam semesta ini, yang lemah tidak memiliki hak    │
-│   untuk hidup dengan nyaman. Hanya yang kuat yang bisa     │
-│   melindungi apa yang mereka cintai."                      │
-│                                                            │
-│                         — Luo Feng, Swallowed Star 吞噬星空 │
-└────────────────────────────────────────────────────────────┘
-```
-
-</div>
+<img src="assets/quote.svg" alt="Terminal: cat ./quote.txt — kutipan Luo Feng, Swallowed Star" width="100%" />
 
 ---
 
-## `~/` ping kavin --transmit
+<img src="assets/contact.svg" alt="Terminal: ping kavin --transmit — kontak" width="100%" />
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/◈_GITHUB-kavinthoriq-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=020812)](https://github.com/kavinthoriq)
 [![Email](https://img.shields.io/badge/◈_EMAIL-kavinthoriq46@gmail.com-ffd700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020812)](mailto:kavinthoriq46@gmail.com)
 [![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-Terminal-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020812)](https://kavinthoriq.github.io/Portfolio)
-
-```bash
-kavin@hr-alliance:~$ ./collab --open
-> CHANNEL AKTIF — SIAP MENERIMA TRANSMISI
-> Terbuka untuk kolaborasi, proyek baru, dan diskusi teknologi.
-kavin@hr-alliance:~$ █
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020812,50:0099ff,100:00f5ff&height=110&section=footer&text=ALL%20SYSTEMS%20OPERATIONAL&fontSize=18&fontColor=020812&animation=twinkling" alt="footer" />
 
