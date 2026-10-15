@@ -15,11 +15,11 @@
 
 </div>
 
-<img src="ssr-origin.svg" alt="Bab 1 Profil Prajurit: Kavin Thoriq, bintang ditelan pusaran kosmik" width="100%" />
+<img src="ssr-origin.svg" alt="Bab 1 Data Profil: Kavin Thoriq, bintang ditelan pusaran kosmik" width="100%" />
 
-<img src="ssr-power.svg" alt="Bab 2 Atribut Kekuatan: hard skill dan soft skill sebagai planet di orbit" width="100%" />
+<img src="ssr-power.svg" alt="Bab 2 Skill & Statistik: hard skill dan soft skill sebagai planet di orbit" width="100%" />
 
-<img src="ssr-arsenal.svg" alt="Bab 3 Arsenal Bintang: teknologi yang dikuasai sebagai rasi bintang" width="100%" />
+<img src="ssr-arsenal.svg" alt="Bab 3 Arsenal Teknologi: teknologi yang dikuasai sebagai rasi bintang" width="100%" />
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 </div>
 
-<img src="ssr-starmap.svg" alt="Bab 4 Peta Bintang Project: enam project sebagai bintang di peta" width="100%" />
+<img src="ssr-starmap.svg" alt="Bab 4 Project Archive: enam project sebagai bintang di peta" width="100%" />
 
 <table>
 <tr>
@@ -73,9 +73,9 @@
 </tr>
 </table>
 
-<img src="ssr-journey.svg" alt="Bab 5 Jalur Kultivasi: pendidikan dan misi sebagai lintasan bintang" width="100%" />
+<img src="ssr-journey.svg" alt="Bab 5 Log Misi & Pendidikan: pendidikan dan misi sebagai lintasan bintang" width="100%" />
 
-<img src="ssr-radar.svg" alt="Bab 6 Radar Kekuatan: statistik GitHub di radar kosmik" width="100%" />
+<img src="ssr-radar.svg" alt="Bab 6 Radar: statistik GitHub di radar kosmik" width="100%" />
 
 <div align="center">
 
@@ -86,9 +86,9 @@
 
 </div>
 
-<img src="ssr-legend.svg" alt="Bab 7 Kata-Kata Legenda: kutipan Luo Feng, Swallowed Star" width="100%" />
+<img src="ssr-legend.svg" alt="Bab 7 Qoutes Legend: kutipan Luo Feng, Swallowed Star" width="100%" />
 
-<img src="ssr-signal.svg" alt="Bab 8 Transmisi Sinyal: kontak dan lokasi Kavin Thoriq" width="100%" />
+<img src="ssr-signal.svg" alt="Bab 8 Kirim Transmisi: kontak dan lokasi Kavin Thoriq" width="100%" />
 
 <div align="center">
 
