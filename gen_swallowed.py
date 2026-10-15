@@ -469,7 +469,7 @@ def panel(fname, num, title, cn, sector, scene_fn, rows, seed=1, min_h=300, hold
 # =====================================================================
 GOLD, CYAN, GREEN = '#ffd700', '#00f5ff', '#00ff88'
 
-panel('ssr-origin.svg', 1, 'PROFIL PRAJURIT', '起源', 'SECTOR 01 // ORIGIN', sc_whoami, [
+panel('ssr-origin.svg', 1, 'PROFILE DATE', '起源', 'SECTOR 01 // ORIGIN', sc_whoami, [
     kv('Nama', 'Kavin Thoriq'),
     kv('Domisili', 'Bogor, Jawa Barat'),
     kv('Akademi', 'SMK TI Dwiguna Kota Depok'),
@@ -485,17 +485,17 @@ panel('ssr-origin.svg', 1, 'PROFIL PRAJURIT', '起源', 'SECTOR 01 // ORIGIN', s
           'Adaptif, komunikatif, dan terbiasa bekerja dalam tim untuk menyelesaikan proyek software secara efektif.', '#b6cde6', 56, 12.5),
 ], seed=11, min_h=420)
 
-panel('ssr-power.svg', 2, 'ATRIBUT KEKUATAN', '力量', 'SECTOR 02 // ORBITS', sc_skills, [
-    head('Kekuatan teknis'),
+panel('ssr-power.svg', 2, 'SKILLS & STATS', '力量', 'SECTOR 02 // ORBITS', sc_skills, [
+    head('HARD SKILLS'),
     bar('Web & Mobile Dev', 82), bar('UI/UX Design', 75), bar('Game Dev 2D', 68),
     bar('SQL / Database', 72), bar('Git & GitHub', 78), bar('MS Office', 88),
     gap(6),
-    head('Kekuatan jiwa'),
+    head('SOFT SKILLS'),
     bar('Problem Solving', 87, 'y'), bar('Kerja Sama Tim', 92, 'y'), bar('Logis & Analitis', 85, 'y'),
     bar('Adaptasi', 88, 'y'), bar('Ketelitian', 83, 'y'), bar('Komunikasi', 80, 'y'),
 ], seed=12)
 
-panel('ssr-arsenal.svg', 3, 'ARSENAL BINTANG', '兵器', 'SECTOR 03 // ARSENAL', sc_stack, [
+panel('ssr-arsenal.svg', 3, 'TECHNOLOGY ARSENAL', '兵器', 'SECTOR 03 // ARSENAL', sc_stack, [
     kv('Web', 'HTML5 · CSS3 · JavaScript · PHP', CYAN),
     kv('Database', 'MySQL', CYAN),
     kv('Desain', 'Figma · UI/UX Prototype', GOLD),
@@ -507,7 +507,7 @@ panel('ssr-arsenal.svg', 3, 'ARSENAL BINTANG', '兵器', 'SECTOR 03 // ARSENAL',
     *para('12 senjata terpasang. Setiap alat adalah bintang yang siap dihubungkan menjadi rasi.', '#7f9bb8', 54, 12),
 ], seed=13)
 
-panel('ssr-starmap.svg', 4, 'PETA BINTANG PROJECT', '星图', 'SECTOR 04 // STAR MAP', sc_projects, [
+panel('ssr-starmap.svg', 4, 'PROJECT ARCHIVE', '星图', 'SECTOR 04 // STAR MAP', sc_projects, [
     item('P-001', 'Go To School: Mathemagic Adventure', 'GAME REALM · 2024', 'COMPLETED', GREEN),
     item('P-002', 'PlengerToSmart', 'WEB REALM · 2025', 'IN PROGRESS', GOLD, CYAN),
     item('P-003', 'Geometry Dash (Fan Game)', 'GAME REALM · 2024', 'COMPLETED', GREEN),
@@ -516,7 +516,7 @@ panel('ssr-starmap.svg', 4, 'PETA BINTANG PROJECT', '星图', 'SECTOR 04 // STAR
     item('P-006', 'SMK TI Dwiguna - Website Design', 'DESIGN REALM · 2025', 'COMPLETED', GREEN, GREEN),
 ], seed=14)
 
-panel('ssr-journey.svg', 5, 'JALUR KULTIVASI', '征途', 'SECTOR 05 // TRAJECTORY', sc_missions, [
+panel('ssr-journey.svg', 5, 'MISSION & EDUCATION LOG', '征途', 'SECTOR 05 // TRAJECTORY', sc_missions, [
     item('M-001', 'SMK TI Dwiguna Kota Depok (PPLG)', '2024 - sekarang', 'ACTIVE', GREEN, GREEN),
     item('M-002', 'Website & Database System', '2024 - 2025', 'COMPLETED', CYAN, CYAN),
     item('M-003', 'UI/UX Prototype Design (Figma)', '2024 - 2025', 'COMPLETED', CYAN, CYAN),
@@ -525,7 +525,7 @@ panel('ssr-journey.svg', 5, 'JALUR KULTIVASI', '征途', 'SECTOR 05 // TRAJECTOR
     *para('Misi berikutnya: naik level setiap hari.', GREEN, 54, 12.5),
 ], seed=15)
 
-panel('ssr-radar.svg', 6, 'RADAR KEKUATAN', '探测', 'SECTOR 06 // RADAR', sc_stats, [
+panel('ssr-radar.svg', 6, 'POWER RADAR', '探测', 'SECTOR 06 // RADAR', sc_stats, [
     kv('Status', 'Radar aktif', GREEN),
     kv('Memindai', 'commits · repos · stars · PR · streak'),
     kv('Siklus', 'Satu sapuan setiap 5 detik'),
@@ -533,7 +533,7 @@ panel('ssr-radar.svg', 6, 'RADAR KEKUATAN', '探测', 'SECTOR 06 // RADAR', sc_s
     *para('Data energi GitHub ditampilkan langsung di bawah panel ini.', '#7f9bb8', 54, 12),
 ], seed=16, min_h=300)
 
-panel('ssr-legend.svg', 7, 'KATA-KATA LEGENDA', '传说', 'SECTOR 07 // 吞噬星空', sc_quote, [
+panel('ssr-legend.svg', 7, 'QOUTES LEGEND', '传说', 'SECTOR 07 // 吞噬星空', sc_quote, [
     gap(6),
     *para('"Dalam alam semesta ini, yang lemah tidak memiliki hak untuk hidup dengan nyaman. '
           'Hanya yang kuat yang bisa melindungi apa yang mereka cintai."', GOLD, 36, 16),
@@ -541,7 +541,7 @@ panel('ssr-legend.svg', 7, 'KATA-KATA LEGENDA', '传说', 'SECTOR 07 // 吞噬�
     dict(t='line', text='- Luo Feng, Swallowed Star 吞噬星空', c='#7f9bb8', size=12, h=20),
 ], seed=17, min_h=300)
 
-panel('ssr-signal.svg', 8, 'TRANSMISI SINYAL', '讯号', 'SECTOR 08 // UPLINK', sc_contact, [
+panel('ssr-signal.svg', 8, 'TRANSMISSION HUB', '讯号', 'SECTOR 08 // UPLINK', sc_contact, [
     kv('GitHub', 'github.com/kavinthoriq', CYAN),
     kv('Email', 'kavinthoriq46@gmail.com', GOLD),
     kv('Portfolio', 'kavinthoriq.github.io/Portfolio', GREEN),
