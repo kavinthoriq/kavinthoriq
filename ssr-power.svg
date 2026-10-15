@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 494" width="800" height="494" role="img" aria-label="ATRIBUT KEKUATAN">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 494" width="800" height="494" role="img" aria-label="SKILLS &amp; STATS">
 <defs>
 
 
@@ -40,7 +40,7 @@
 <path d="M12 12 H436 L450 26 V482 H26 L12 468 Z" fill="#030d1c" fill-opacity="0.74" stroke="#00f5ff" stroke-opacity="0.28"/>
 <path d="M12 34 V12 H34 M428 482 H450 V460" fill="none" stroke="#ffd700" stroke-width="2"/>
 <text class="L" x="28" y="34" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="10.5" font-weight="700" fill="#ffd700" fill-opacity="0.9" letter-spacing="3.5" >BAB 02</text>
-<text class="L" x="28" y="60" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="url(#goldtxt)" fill-opacity="1" letter-spacing="2.6" filter="url(#glow)">	SKILLS & STATS</text>
+<text class="L" x="28" y="60" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="url(#goldtxt)" fill-opacity="1" letter-spacing="2.6" filter="url(#glow)">SKILLS &amp; STATS</text>
 <text class="L" x="430" y="60" text-anchor="end" font-family="'Noto Sans CJK SC','Microsoft YaHei','PingFang SC','Hiragino Sans GB',sans-serif" font-size="20" font-weight="700" fill="#00f5ff" fill-opacity="0.75" letter-spacing="4" >技能与属性</text>
 <line x1="28" y1="68" x2="430" y2="68" stroke="#00f5ff" stroke-opacity="0.22"/>
 <rect x="28" y="67" width="70" height="2" fill="url(#hl)"><animate attributeName="x" values="28;360;28" dur="4.6s" repeatCount="indefinite"/></rect>
