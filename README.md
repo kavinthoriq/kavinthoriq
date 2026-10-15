@@ -1,37 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=%24+sudo+awaken+--operator+kavin_thoriq;%3E+INITIALIZING+SYSTEM...;%3E+CONNECTING+TO+HR+ALLIANCE+SATELLITE...;%3E+BYPASSING+SECURITY...+OK.;%3E+WELCOME%2C+KAVIN+THORIQ+%E2%80%94+ACCESS+AUTHORIZED" alt="Typing SVG" />
-
 <img src="swallowed-star.svg" alt="吞噬星空 Swallowed Star — bintang ditelan pusaran kosmik" width="100%" />
 
 # 吞噬星空 · SWALLOWED STAR // OPERATOR PROFILE
 
-**`KAVIN THORIQ`** — Pelajar PPLG · SMK TI Dwiguna, Depok
+**`KAVIN THORIQ`** — Prajurit Cosmic Grade · Pelajar PPLG di SMK TI Dwiguna, Depok
 
 ![status](https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-00ff88?style=for-the-badge&labelColor=020812)
 ![class](https://img.shields.io/badge/CLASS-COSMIC_GRADE-ffd700?style=for-the-badge&labelColor=020812)
 ![threat](https://img.shields.io/badge/THREAT_LV-0-00f5ff?style=for-the-badge&labelColor=020812)
 
-[![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO_TERMINAL-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=020812)](https://kavinthoriq.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/▶_JELAJAHI_PORTFOLIO-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=020812)](https://kavinthoriq.github.io/Portfolio)
 [![Email](https://img.shields.io/badge/⊕_KIRIM_TRANSMISI-ffd700?style=for-the-badge&logo=gmail&logoColor=020812)](mailto:kavinthoriq46@gmail.com)
 
 </div>
 
----
+<img src="ssr-origin.svg" alt="Bab 1 Profil Prajurit: Kavin Thoriq, bintang ditelan pusaran kosmik" width="100%" />
 
-<img src="whoami.svg" alt="Terminal: cat /etc/operator.conf — profil Kavin Thoriq" width="100%" />
+<img src="ssr-power.svg" alt="Bab 2 Atribut Kekuatan: hard skill dan soft skill sebagai planet di orbit" width="100%" />
 
-<br/>
-
-<img src="terminal.svg" alt="Terminal: nano hello_universe.js — menulis program di Linux" width="100%" />
-
----
-
-<img src="skills.svg" alt="Terminal: ./atribut — hard skills dan soft skills" width="100%" />
-
-<br/>
-
-<img src="stack.svg" alt="Terminal: apt list --installed — arsenal teknologi" width="100%" />
+<img src="ssr-arsenal.svg" alt="Bab 3 Arsenal Bintang: teknologi yang dikuasai sebagai rasi bintang" width="100%" />
 
 <div align="center">
 
@@ -50,9 +38,7 @@
 
 </div>
 
----
-
-<img src="projects.svg" alt="Terminal: ls -l ./project-archive — daftar project" width="100%" />
+<img src="ssr-starmap.svg" alt="Bab 4 Peta Bintang Project: enam project sebagai bintang di peta" width="100%" />
 
 <table>
 <tr>
@@ -87,13 +73,9 @@
 </tr>
 </table>
 
----
+<img src="ssr-journey.svg" alt="Bab 5 Jalur Kultivasi: pendidikan dan misi sebagai lintasan bintang" width="100%" />
 
-<img src="missions.svg" alt="Terminal: cat ./mission-log — log misi dan pendidikan" width="100%" />
-
----
-
-<img src="stats.svg" alt="Terminal: ./stats --live — statistik GitHub" width="100%" />
+<img src="ssr-radar.svg" alt="Bab 6 Radar Kekuatan: statistik GitHub di radar kosmik" width="100%" />
 
 <div align="center">
 
@@ -104,20 +86,16 @@
 
 </div>
 
----
+<img src="ssr-legend.svg" alt="Bab 7 Kata-Kata Legenda: kutipan Luo Feng, Swallowed Star" width="100%" />
 
-<img src="quote.svg" alt="Terminal: cat ./quote.txt — kutipan Luo Feng, Swallowed Star" width="100%" />
-
----
-
-<img src="contact.svg" alt="Terminal: ping kavin --transmit — kontak" width="100%" />
+<img src="ssr-signal.svg" alt="Bab 8 Transmisi Sinyal: kontak dan lokasi Kavin Thoriq" width="100%" />
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/◈_GITHUB-kavinthoriq-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=020812)](https://github.com/kavinthoriq)
 [![Email](https://img.shields.io/badge/◈_EMAIL-kavinthoriq46@gmail.com-ffd700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020812)](mailto:kavinthoriq46@gmail.com)
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-Terminal-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020812)](https://kavinthoriq.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-kavinthoriq.github.io-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020812)](https://kavinthoriq.github.io/Portfolio)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020812,50:0099ff,100:00f5ff&height=110&section=footer&text=ALL%20SYSTEMS%20OPERATIONAL&fontSize=18&fontColor=020812&animation=twinkling" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020812,50:0099ff,100:ffd700&height=110&section=footer&text=%E5%90%9E%E5%99%AC%E6%98%9F%E7%A9%BA%20%C2%B7%20SWALLOWED%20STAR&fontSize=18&fontColor=020812&animation=twinkling" alt="footer" />
 
 </div>
